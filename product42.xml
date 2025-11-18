@@ -1,0 +1,738 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MPITEMS>
+    <created_at>2025-11-05 15:02:00</created_at>
+    <products>
+        <product cnt="1">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W23807-12</sku>
+            <name>Σετ Φόρμας Junior Girl Γκρι Μελανζέ με Κουκούλα Μέγεθος 12</name>
+            <url>https://www.myshopflix.gr/product/W23807-12</url> 
+            <ean>FUNSTRIKE-W2380712</ean> 
+            <mpn>FS-SET-W23807-GR</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φόρμας Junior Girl (φούτερ με κουκούλα και παντελόνι) σε γκρι μελανζέ χρώμα. Ιδανικό για άνεση και στυλ. Το φούτερ έχει κουμπιά στο λαιμό.]]></description>
+            <weight>0.35</weight>
+            <color>Γκρι Μελανζέ</color>
+            <size>12</size> 
+            <image><![CDATA[https://i.imgur.com/yn4ezZg.jpeg]]></image>
+            <price>12.00</price>
+            <list_price>26.70</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+        <product cnt="2">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W23807-14</sku>
+            <name>Σετ Φόρμας Junior Girl Γκρι Μελανζέ με Κουκούλα Μέγεθος 14</name>
+            <url>https://www.myshopflix.gr/product/W23807-14</url> 
+            <ean>FUNSTRIKE-W2380714</ean> 
+            <mpn>FS-SET-W23807-GR</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φόρμας Junior Girl (φούτερ με κουκούλα και παντελόνι) σε γκρι μελανζέ χρώμα. Ιδανικό για άνεση και στυλ. Το φούτερ έχει κουμπιά στο λαιμό.]]></description>
+            <weight>0.35</weight>
+            <color>Γκρι Μελανζέ</color>
+            <size>14</size> 
+            <image><![CDATA[https://i.imgur.com/yn4ezZg.jpeg]]></image> 
+            <price>12.00</price>
+            <list_price>26.70</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+        
+        <product cnt="3">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W23807-16</sku>
+            <name>Σετ Φόρμας Junior Girl Γκρι Μελανζέ με Κουκούλα Μέγεθος 16</name>
+            <url>https://www.myshopflix.gr/product/W23807-16</url> 
+            <ean>FUNSTRIKE-W2380716</ean> 
+            <mpn>FS-SET-W23807-GR</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φόρμας Junior Girl (φούτερ με κουκούλα και παντελόνι) σε γκρι μελανζέ χρώμα. Ιδανικό για άνεση και στυλ. Το φούτερ έχει κουμπιά στο λαιμό.]]></description>
+            <weight>0.35</weight>
+            <color>Γκρι Μελανζέ</color>
+            <size>16</size> 
+            <image><![CDATA[https://i.imgur.com/yn4ezZg.jpeg]]></image>
+            <price>12.00</price>
+            <list_price>26.70</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+        <product cnt="4">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>WS23802-10</sku>
+            <name>Σετ Φόρμας Junior Girl Ροζ-Μαύρο με Τύπωμα Μέγεθος 10</name>
+            <url>https://www.myshopflix.gr/product/WS23802-10</url> 
+            <ean>FUNSTRIKE-WS2380210</ean> 
+            <mpn>FS-SET-WS23802-GR</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φόρμας Junior Girl (φούτερ και παντελόνι). Ροζ φούτερ με τύπωμα "GAME GIRL GAMES" και μαύρο παντελόνι φόρμας.]]></description>
+            <weight>0.35</weight>
+            <color>Ροζ/Μαύρο</color>
+            <size>10</size> 
+            <image><![CDATA[https://i.imgur.com/B8BrdQ6.jpeg]]></image>
+            <price>12.00</price>
+            <list_price>22.00</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+        <product cnt="5">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>WS23802-12</sku>
+            <name>Σετ Φόρμας Mini Girl Ροζ-Μαύρο με Τύπωμα Μέγεθος 12</name>
+            <url>https://www.myshopflix.gr/product/WS23802-12</url> 
+            <ean>FUNSTRIKE-WS2380212</ean> 
+            <mpn>FS-SET-WS23802-GR</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φόρμας Junior Girl (φούτερ και παντελόνι). Ροζ φούτερ με τύπωμα "GAME GIRL GAMES" και μαύρο παντελόνι φόρμας.]]></description>
+            <weight>0.35</weight>
+            <color>Ροζ/Μαύρο</color>
+            <size>12</size> 
+            <image><![CDATA[https://i.imgur.com/B8BrdQ6.jpeg]]></image>
+            <price>12.00</price>
+            <list_price>22.00</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+        <product cnt="6">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>WS23802-14</sku>
+            <name>Σετ Φόρμας Junior Girl Ροζ-Μαύρο με Τύπωμα Μέγεθος 14</name>
+            <url>https://www.myshopflix.gr/product/WS23802-14</url> 
+            <ean>FUNSTRIKE-WS2380214</ean> 
+            <mpn>FS-SET-WS23802-GR</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φόρμας Junior Girl (φούτερ και παντελόνι). Ροζ φούτερ με τύπωμα "GAME GIRL GAMES" και μαύρο παντελόνι φόρμας.]]></description>
+            <weight>0.35</weight>
+            <color>Ροζ/Μαύρο</color>
+            <size>14</size> 
+            <image><![CDATA[https://i.imgur.com/B8BrdQ6.jpeg]]></image>
+            <price>12.00</price>
+            <list_price>22.00</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+        <product cnt="7">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>WS23802-16</sku>
+            <name>Σετ Φόρμας Junior Girl Ροζ-Μαύρο με Τύπωμα Μέγεθος 16</name>
+            <url>https://www.myshopflix.gr/product/WS23802-16</url> 
+            <ean>FUNSTRIKE-WS2380216</ean> 
+            <mpn>FS-SET-WS23802-GR</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φόρμας Junior Girl (φούτερ και παντελόνι). Ροζ φούτερ με τύπωμα "GAME GIRL GAMES" και μαύρο παντελόνι φόρμας.]]></description>
+            <weight>0.35</weight>
+            <color>Ροζ/Μαύρο</color>
+            <size>16</size> 
+            <image><![CDATA[https://i.imgur.com/B8BrdQ6.jpeg]]></image>
+            <price>12.00</price>
+            <list_price>22.00</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+        <product cnt="8">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W23807P-12</sku>
+            <name>Σετ Φόρμας Junior Girl Μοβ (Λεβάντα) με Κουκούλα Μέγεθος 12</name>
+            <url>https://www.myshopflix.gr/product/W23807P-12</url> 
+            <ean>FUNSTRIKE-W23807P12</ean> 
+            <mpn>FS-SET-W23807-MO</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φόρμας Junior Girl (φούτερ με κουκούλα και παντελόνι) σε μονόχρωμο μοβ (λεβάντα). Ιδανικό για άνεση και στυλ. Το φούτερ έχει κουμπιά στο λαιμό.]]></description>
+            <weight>0.35</weight>
+            <color>Μοβ (Λεβάντα)</color>
+            <size>12</size> 
+            <image><![CDATA[https://i.imgur.com/nr9IMhi.jpeg]]></image>
+            <price>12.00</price>
+            <list_price>26.70</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+        <product cnt="9">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W23807P-14</sku>
+            <name>Σετ Φόρμας Junior Girl Μοβ (Λεβάντα) με Κουκούλα Μέγεθος 14</name>
+            <url>https://www.myshopflix.gr/product/W23807P-14</url> 
+            <ean>FUNSTRIKE-W23807P14</ean> 
+            <mpn>FS-SET-W23807-MO</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φόρμας Junior Girl (φούτερ με κουκούλα και παντελόνι) σε μονόχρωμο μοβ (λεβάντα). Ιδανικό για άνεση και στυλ. Το φούτερ έχει κουμπιά στο λαιμό.]]></description>
+            <weight>0.35</weight>
+            <color>Μοβ (Λεβάντα)</color>
+            <size>14</size> 
+            <image><![CDATA[https://i.imgur.com/nr9IMhi.jpeg]]></image>
+            <price>12.00</price>
+            <list_price>26.70</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+        
+        <product cnt="10">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W23807P-16</sku>
+            <name>Σετ Φόρμας Junior Girl Μοβ (Λεβάντα) με Κουκούλα Μέγεθος 16</name>
+            <url>https://www.myshopflix.gr/product/W23807P-16</url> 
+            <ean>FUNSTRIKE-W23807P16</ean> 
+            <mpn>FS-SET-W23807-MO</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φόρμας Junior Girl (φούτερ με κουκούλα και παντελόνι) σε μονόχρωμο μοβ (λεβάντα). Ιδανικό για άνεση και στυλ. Το φούτερ έχει κουμπιά στο λαιμό.]]></description>
+            <weight>0.35</weight>
+            <color>Μοβ (Λεβάντα)</color>
+            <size>16</size> 
+            <image><![CDATA[https://i.imgur.com/nr9IMhi.jpeg]]></image>
+            <price>12.00</price>
+            <list_price>26.70</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+        <product cnt="11">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ MΠΛΟΥΖΟΦΟΡΕΜΑ]]></category>
+            <sku>W23803-12</sku>
+            <name>Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl ΦΟΥΞΙΑ με Κουκούλα Μέγεθος 12</name>
+            <url>https://www.myshopflix.gr/product/W23803-12</url> 
+            <ean>FUNSTRIKE-W2380312</ean> 
+            <mpn>FS-SET-W23803</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl (φούτερ με κουκούλα και κολαν) σε μονόχρωμο φούξια.Μπλουζοφόρεμα σε φουξια χρώμα με κουκουλα και μαύρο κολαν.]]></description>
+            <weight>0.35</weight>
+            <color>Φουξια</color>
+            <size>12</size> 
+            <image><![CDATA[https://i.imgur.com/iSLGqSe.jpeg]]></image>
+            <price>14.00</price>
+            <list_price>28.00</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+        <product cnt="12">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ MΠΛΟΥΖΟΦΟΡΕΜΑ]]></category>
+            <sku>W23803-14</sku>
+            <name>Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl ΦΟΥΞΙΑ με Κουκούλα Μέγεθος 14</name>
+            <url>https://www.myshopflix.gr/product/W23803-14</url> 
+            <ean>FUNSTRIKE-W2380314</ean> 
+            <mpn>FS-SET-W23803</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl (φούτερ με κουκούλα και κολαν) σε μονόχρωμο φούξια.Μπλουζοφόρεμα σε φουξια χρώμα με κουκουλα και μαύρο κολαν.]]></description>
+            <weight>0.35</weight>
+            <color>Φουξια</color>
+            <size>14</size> 
+            <image><![CDATA[https://i.imgur.com/iSLGqSe.jpeg]]></image>
+            <price>14.00</price>
+            <list_price>28.00</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+        <product cnt="13">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ MΠΛΟΥΖΟΦΟΡΕΜΑ]]></category>
+            <sku>W23803-16</sku>
+            <name>Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl ΦΟΥΞΙΑ με Κουκούλα Μέγεθος 16</name>
+            <url>https://www.myshopflix.gr/product/W23803-16</url> 
+            <ean>FUNSTRIKE-W2380316</ean> 
+            <mpn>FS-SET-W23803</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl (φούτερ με κουκούλα και κολαν) σε μονόχρωμο φούξια.Μπλουζοφόρεμα σε φουξια χρώμα με κουκουλα και μαύρο κολαν.]]></description>
+            <weight>0.35</weight>
+            <color>Φουξια</color>
+            <size>16</size> 
+            <image><![CDATA[https://i.imgur.com/iSLGqSe.jpeg]]></image>
+            <price>14.00</price>
+            <list_price>28.00</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+        <product cnt="14">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ MΠΛΟΥΖΟΦΟΡΕΜΑ]]></category>
+            <sku>W23811-12</sku>
+            <name>Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl Μωβ Μέγεθος 12</name>
+            <url>https://www.myshopflix.gr/product/W23811-12</url> <ean>FUNSTRIKE-W2381112</ean> <mpn>FS-SET-W23811</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl (φούτερ και κολαν) σε μονόχρωμο φούξια.Μπλουζοφόρεμα σε μοβ χρώμα με τύπωμα εμπρός omg και μαύρο κολαν.]]></description>
+            <weight>0.35</weight>
+            <color>Mωβ</color>
+            <size>12</size> 
+            <image><![CDATA[https://i.imgur.com/a7ZpUg7.jpeg]]></image>
+            <price>15.00</price>
+            <list_price>30.00</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+        <product cnt="15">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ MΠΛΟΥΖΟΦΟΡΕΜΑ]]></category>
+            <sku>W23811-14</sku>
+            <name>Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl Μωβ Μέγεθος 14</name>
+            <url>https://www.myshopflix.gr/product/W23811-14</url> <ean>FUNSTRIKE-W2381114</ean> <mpn>FS-SET-W23811</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl (φούτερ και κολαν) σε μονόχρωμο φούξια.Μπλουζοφόρεμα σε μοβ χρώμα με τύπωμα εμπρός omg και μαύρο κολαν.]]></description>
+            <weight>0.35</weight>
+            <color>Μωβ</color>
+            <size>14</size> 
+            <image><![CDATA[https://i.imgur.com/a7ZpUg7.jpeg]]></image>
+            <price>15.00</price>
+            <list_price>30.00</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+        <product cnt="16">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ MΠΛΟΥΖΟΦΟΡΕΜΑ]]></category>
+            <sku>W23811-16</sku>
+            <name>Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl Μωβ Μέγεθος 16</name>
+            <url>https://www.myshopflix.gr/product/W23811-16</url> <ean>FUNSTRIKE-W2381116</ean> <mpn>FS-SET-W23811</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl (φούτερ και κολαν) σε μονόχρωμο φούξια.Μπλουζοφόρεμα σε μοβ χρώμα με τύπωμα εμπρός omg και μαύρο κολαν.]]></description>
+            <weight>0.35</weight>
+            <color>Μωβ</color>
+            <size>16</size> 
+            <image><![CDATA[https://i.imgur.com/a7ZpUg7.jpeg]]></image>
+            <price>15.00</price>
+            <list_price>30.00</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+        <product cnt="17">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ MΠΛΟΥΖΟΦΟΡΕΜΑ]]></category>
+            <sku>W24803-4</sku>
+            <name>Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl Γκρι Μελανζε Μέγεθος 4</name>
+            <url>https://www.myshopflix.gr/product/W24803-4</url> <ean>FUNSTRIKE-W248034</ean> <mpn>FS-SET-W24803</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl (φούτερ και κολαν) γκρι μελανζε μπλουζοφόρεμα με τύπωμα μαύρο και απο κάτω σχέδιο πουκάμισο λευκό και μαύρο κολαν.]]></description>
+            <weight>0.35</weight>
+            <color>Γκρι μελανζέ</color>
+            <size>4</size> 
+            <image><![CDATA[https://i.imgur.com/jhcIQTb.png]]></image>
+            <price>13.00</price>
+            <list_price>26.40</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+        <product cnt="18">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ MΠΛΟΥΖΟΦΟΡΕΜΑ]]></category>
+            <sku>W24803-10</sku>
+            <name>Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl Γκρι Μελανζε Μέγεθος 10</name>
+            <url>https://www.myshopflix.gr/product/W24803-10</url> <ean>FUNSTRIKE-W2480310</ean> <mpn>FS-SET-W24803</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl (φούτερ και κολαν) γκρι μελανζε μπλουζοφόρεμα με τύπωμα μαύρο και απο κάτω σχέδιο πουκάμισο λευκό και μαύρο κολαν.]]></description>
+            <weight>0.35</weight>
+            <color>Γκρι μελανζέ</color>
+            <size>10</size> 
+            <image><![CDATA[https://i.imgur.com/jhcIQTb.png]]></image>
+            <price>13.00</price>
+            <list_price>26.40</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+        <product cnt="19">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ MΠΛΟΥΖΟΦΟΡΕΜΑ]]></category>
+            <sku>W24803-12</sku>
+            <name>Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl Γκρι Μελανζε Μέγεθος 12</name>
+            <url>https://www.myshopflix.gr/product/W24803-12</url> <ean>FUNSTRIKE-W2480312</ean> <mpn>FS-SET-W24803</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl (φούτερ και κολαν) γκρι μελανζε μπλουζοφόρεμα με τύπωμα μαύρο και απο κάτω σχέδιο πουκάμισο λευκό και μαύρο κολαν.]]></description>
+            <weight>0.35</weight>
+            <color>Γκρι μελανζέ</color>
+            <size>12</size> 
+            <image><![CDATA[https://i.imgur.com/jhcIQTb.png]]></image>
+            <price>13.00</price>
+            <list_price>26.40</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+        <product cnt="20">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ MΠΛΟΥΖΟΦΟΡΕΜΑ]]></category>
+            <sku>W24803-14</sku>
+            <name>Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl Γκρι Μελανζε Μέγεθος 14</name>
+            <url>https://www.myshopflix.gr/product/W24803-14</url> <ean>FUNSTRIKE-W2480314</ean> <mpn>FS-SET-W24803</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl (φούτερ και κολαν) γκρι μελανζε μπλουζοφόρεμα με τύπωμα μαύρο και απο κάτω σχέδιο πουκάμισο λευκό και μαύρο κολαν.]]></description>
+            <weight>0.35</weight>
+            <color>Γκρι μελανζέ</color>
+            <size>14</size> 
+            <image><![CDATA[https://i.imgur.com/jhcIQTb.png]]></image>
+            <price>13.00</price>
+            <list_price>26.40</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+        <product cnt="21">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ MΠΛΟΥΖΟΦΟΡΕΜΑ]]></category>
+            <sku>W24803-16</sku>
+            <name>Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl Γκρι Μελανζέ Μέγεθος 16</name>
+            <url>https://www.myshopflix.gr/product/W24803-16</url> <ean>FUNSTRIKE-W2480316</ean> <mpn>FS-SET-W24803</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ ΜΠΛΟΥΖΟΦΟΡΕΜΑ Junior Girl (φούτερ και κολαν) γκρι μελανζε μπλουζοφόρεμα με τύπωμα μαύρο και απο κάτω σχέδιο πουκάμισο λευκό και μαύρο κολαν.]]></description>
+            <weight>0.35</weight>
+            <color>Γκρι μελανζέ</color>
+            <size>16</size> 
+            <image><![CDATA[https://i.imgur.com/jhcIQTb.png]]></image>
+            <price>13.00</price>
+            <list_price>26.40</list_price>
+            <quantity>2</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+        <product cnt="22">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φορμα]]></category>
+            <sku>W23602-3M</sku>
+            <name>Σετ Φορμα Baby Girl Λευκό-Φούξια Μέγεθος 3Μ</name>
+            <url>https://www.myshopflix.gr/product/W23602-3Μ</url> <ean>FUNSTRIKE-W236023M</ean> <mpn>FS-SET-W23602</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με τύπωμα ακρουδάκι και φούξια παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Λευκό Φούξια</color>
+            <size>3Μ</size> 
+            <image><![CDATA[https://i.imgur.com/yt7fJjo.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>24.20</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+        <product cnt="23">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φορμα]]></category>
+            <sku>W23602-6M</sku>
+            <name>Σετ Φορμα Baby Girl Λευκό-Φούξια Μέγεθος 6Μ</name>
+            <url>https://www.myshopflix.gr/product/W23602-6Μ</url> <ean>FUNSTRIKE-W236026M</ean> <mpn>FS-SET-W23602</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με τύπωμα ακρουδάκι και φούξια παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Λευκό Φούξια</color>
+            <size>6Μ</size> 
+            <image><![CDATA[https://i.imgur.com/yt7fJjo.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>24.20</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+        <product cnt="24">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φορμα]]></category>
+            <sku>W23602-9M</sku>
+            <name>Σετ Φορμα Baby Girl Λευκό-Φούξια Μέγεθος 9Μ</name>
+            <url>https://www.myshopflix.gr/product/W23602-9Μ</url> <ean>FUNSTRIKE-W236029M</ean> <mpn>FS-SET-W23602</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με τύπωμα ακρουδάκι και φούξια παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Λευκό Φούξια</color>
+            <size>9Μ</size> 
+            <image><![CDATA[https://i.imgur.com/yt7fJjo.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>24.20</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+        <product cnt="25">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φορμα]]></category>
+            <sku>W23602-12M</sku>
+            <name>Σετ Φορμα Baby Girl Λευκό-Φούξια Μέγεθος 12Μ</name>
+            <url>https://www.myshopflix.gr/product/W23602-12Μ</url> <ean>5FUNSTRIKE-W2360212M</ean> <mpn>FS-SET-W23602</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με τύπωμα ακρουδάκι και φούξια παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Λευκό Φούξια</color>
+            <size>12Μ</size> 
+            <image><![CDATA[https://i.imgur.com/yt7fJjo.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>24.20</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="26">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φορμα]]></category>
+            <sku>W22201-3M</sku>
+            <name>Σετ Φορμα Baby Boy Λευκό Μαρέν Μέγεθος 3Μ</name>
+            <url>https://www.myshopflix.gr/product/W22201-3Μ</url> <ean>FUNSTRIKE-W222013M</ean> <mpn>FS-SET-W22201</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με τύπωμα ακρουδάκι και μαρέν παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Λευκό μαρέν</color>
+            <size>3Μ</size> 
+            <image><![CDATA[https://i.imgur.com/QVNSXy0.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>26.00</list_price>
+            <quantity>5</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="27">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φορμα]]></category>
+            <sku>W22201-6M</sku>
+            <name>Σετ Φορμα Baby Boy Λευκό Μαρέν Μέγεθος 6Μ</name>
+            <url>https://www.myshopflix.gr/product/W22201-6Μ</url> <ean>FUNSTRIKE-W222016M</ean> <mpn>FS-SET-W22201</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με τύπωμα ακρουδάκι και μαρέν παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Λευκό μαρέν</color>
+            <size>6Μ</size> 
+            <image><![CDATA[https://i.imgur.com/QVNSXy0.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>26.00</list_price>
+            <quantity>5</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+       <product cnt="28">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W22204-3M</sku>
+            <name>Σετ Φόρμας Baby Boy  Μαρέν Μέγεθος 3Μ</name>
+            <url>https://www.myshopflix.gr/product/W22204-3Μ</url> <ean>FUNSTRIKE-W222043M</ean> <mpn>FS-SET-W22204</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Μαρέν μπλούζα με τύπωμα Monster και μαρέν παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Μοντέρνο παντελόνι με τύπωμα στο μπροστινό  του μερος.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Μαρέν</color>
+            <size>3Μ</size> 
+            <image><![CDATA[https://i.imgur.com/dA6HIm6.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>21.70</list_price>
+            <quantity>3</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="29">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W22204-6M</sku>
+            <name>Σετ Φόρμας Baby Boy  Μαρέν Μέγεθος 6Μ</name>
+            <url>https://www.myshopflix.gr/product/W22204-6Μ</url> <ean>FUNSTRIKE-W222046M</ean> <mpn>FS-SET-W22204</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Μαρέν μπλούζα με τύπωμα Monster και μαρέν παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Μοντέρνο παντελόνι με τύπωμα στο μπροστινό  του μερος.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Μαρέν</color>
+            <size>6Μ</size> 
+            <image><![CDATA[https://i.imgur.com/dA6HIm6.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>21.70</list_price>
+            <quantity>3</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="30">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W22204-9M</sku>
+            <name>Σετ Φόρμας Baby Boy  Μαρέν Μέγεθος 9Μ</name>
+            <url>https://www.myshopflix.gr/product/W22204-9Μ</url> <ean>FUNSTRIKE-W222049M</ean> <mpn>FS-SET-W22204</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Μαρέν μπλούζα με τύπωμα Monster και μαρέν παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Μοντέρνο παντελόνι με τύπωμα στο μπροστινό  του μερος.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Μαρέν</color>
+            <size>9Μ</size> 
+            <image><![CDATA[https://i.imgur.com/dA6HIm6.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>21.70</list_price>
+            <quantity>3</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="31">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W22204-12M</sku>
+            <name>Σετ Φόρμας Baby Boy  Μαρέν Μέγεθος 12Μ</name>
+            <url>https://www.myshopflix.gr/product/W22204-12Μ</url> <ean>FUNSTRIKE-W2220412M</ean> <mpn>FS-SET-W22204</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Μαρέν μπλούζα με τύπωμα Monster και μαρέν παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Μοντέρνο παντελόνι με τύπωμα στο μπροστινό  του μερος.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Λευκό Φούξια</color>
+            <size>12Μ</size> 
+            <image><![CDATA[https://i.imgur.com/dA6HIm6.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>21.70</list_price>
+            <quantity>3</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="32">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W22602-3M</sku>
+            <name>Σετ Φόρμας Baby Girl  Λευκό Φούξια Μέγεθος 3Μ</name>
+            <url>https://www.myshopflix.gr/product/W22602-3Μ</url> <ean>FUNSTRIKE-W226023M</ean> <mpn>FS-SET-W22602</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με βολάν στα μανίκια και τύπωμα τίγρης.Στο πίσω μέρος της μπλουζας υπάρχουν κουμπάκια για να γινεται πιο εύκολη η αλλαγή της μπλούζαςΠαντελόνι φούτερ με τυπωμένα τιγράκια σε χρώμα φούξια.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Μαρέν</color>
+            <size>3Μ</size> 
+            <image><![CDATA[https://i.imgur.com/9RFAEOl.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>23.30</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+
+       <product cnt="33">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W22602-6M</sku>
+            <name>Σετ Φόρμας Baby Girl  Λευκό Φούξια Μέγεθος 6Μ</name>
+            <url>https://www.myshopflix.gr/product/W22602-6Μ</url> <ean>FUNSTRIKE-W226026M</ean> <mpn>FS-SET-W22602</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με βολάν στα μανίκια και τύπωμα τίγρης.Στο πίσω μέρος της μπλουζας υπάρχουν κουμπάκια για να γινεται πιο εύκολη η αλλαγή της μπλούζαςΠαντελόνι φούτερ με τυπωμένα τιγράκια σε χρώμα φούξια.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Μαρέν</color>
+            <size>6Μ</size> 
+            <image><![CDATA[https://i.imgur.com/9RFAEOl.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>23.30</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+
+
+       <product cnt="34">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W22602-12M</sku>
+            <name>Σετ Φόρμας Baby Girl  Λευκό Φούξια Μέγεθος 12Μ</name>
+            <url>https://www.myshopflix.gr/product/W22602-12Μ</url> <ean>FUNSTRIKE-W2260212M</ean> <mpn>FS-SET-W22602</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με βολάν στα μανίκια και τύπωμα τίγρης.Στο πίσω μέρος της μπλουζας υπάρχουν κουμπάκια για να γινεται πιο εύκολη η αλλαγή της μπλούζαςΠαντελόνι φούτερ με τυπωμένα τιγράκια σε χρώμα φούξια.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Μαρέν</color>
+            <size>12Μ</size> 
+            <image><![CDATA[https://i.imgur.com/9RFAEOl.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>23.30</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+
+       <product cnt="35">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W22604-3Μ</sku>
+            <name>Σετ Φόρμας Baby Girl Φούξια Μέγεθος 3Μ</name>
+            <url>https://www.myshopflix.gr/product/W22604-3Μ</url> <ean>FUNSTRIKE-W226043M</ean> <mpn>FS-SET-W22604</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Φούξια φούτερ φόρμα με απλικέ κέντημα εμπρός και κουμπάκια που διευκολυνουν την αλλαγή.Φούξια παντελόνι με απλικέ κέντιμα γάτας εμπρος .Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Φούξια</color>
+            <size>3Μ</size> 
+            <image><![CDATA[https://i.imgur.com/fF5VBGi.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>28.70</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="36">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W22604-6Μ</sku>
+            <name>Σετ Φόρμας Baby Girl Φούξια Μέγεθος 6Μ</name>
+            <url>https://www.myshopflix.gr/product/W22604-6Μ</url> <ean>FUNSTRIKE-W226046M</ean> <mpn>FS-SET-W22604</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Φούξια φούτερ φόρμα με απλικέ κέντημα εμπρός και κουμπάκια που διευκολυνουν την αλλαγή.Φούξια παντελόνι με απλικέ κέντιμα γάτας εμπρος .Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Φούξια</color>
+            <size>6Μ</size> 
+            <image><![CDATA[https://i.imgur.com/fF5VBGi.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>28.70</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="37">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W22604-9Μ</sku>
+            <name>Σετ Φόρμας Baby Girl Φούξια Μέγεθος 9Μ</name>
+            <url>https://www.myshopflix.gr/product/W22604-9Μ</url> <ean>FUNSTRIKE-W226049M</ean> <mpn>FS-SET-W22604</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Φούξια φούτερ φόρμα με απλικέ κέντημα εμπρός και κουμπάκια που διευκολυνουν την αλλαγή.Φούξια παντελόνι με απλικέ κέντιμα γάτας εμπρος .Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Φούξια</color>
+            <size>9Μ</size> 
+            <image><![CDATA[https://i.imgur.com/fF5VBGi.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>28.70</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="38">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φόρμας]]></category>
+            <sku>W22604-12Μ</sku>
+            <name>Σετ Φόρμας Baby Girl Φούξια Μέγεθος 12Μ</name>
+            <url>https://www.myshopflix.gr/product/W22604-12Μ</url> <ean>FUNSTRIKE-W2260412M</ean> <mpn>FS-SET-W22604</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Φούξια φούτερ φόρμα με απλικέ κέντημα εμπρός και κουμπάκια που διευκολυνουν την αλλαγή.Φούξια παντελόνι με απλικέ κέντιμα γάτας εμπρος .Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Φούξια</color>
+            <size>12Μ</size> 
+            <image><![CDATA[https://i.imgur.com/fF5VBGi.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>28.70</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="39">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φορμα]]></category>
+            <sku>W23202-3M</sku>
+            <name>Σετ Φορμα Baby Boy Λευκό Μαρέν Μέγεθος 3Μ</name>
+            <url>https://www.myshopflix.gr/product/W23202-3Μ</url> <ean>FUNSTRIKE-W232023M</ean> <mpn>FS-SET-W23202</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με τύπωμα ακρουδάκι και μαρέν παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Λευκό μαρέν</color>
+            <size>3Μ</size> 
+            <image><![CDATA[https://i.imgur.com/MvkkAoZ.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>24.20</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="40">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φορμα]]></category>
+            <sku>W23202-6M</sku>
+            <name>Σετ Φορμα Baby Boy Λευκό Μαρέν Μέγεθος 6Μ</name>
+            <url>https://www.myshopflix.gr/product/W23202-6Μ</url> <ean>FUNSTRIKE-W232026M</ean> <mpn>FS-SET-W23202</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με τύπωμα ακρουδάκι και μαρέν παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Λευκό μαρέν</color>
+            <size>6Μ</size> 
+            <image><![CDATA[https://i.imgur.com/MvkkAoZ.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>24.20</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="41">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φορμα]]></category>
+            <sku>W23202-9M</sku>
+            <name>Σετ Φορμα Baby Boy Λευκό Μαρέν Μέγεθος 9Μ</name>
+            <url>https://www.myshopflix.gr/product/W23202-9Μ</url> <ean>FUNSTRIKE-W232029M</ean> <mpn>FS-SET-W23202</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με τύπωμα ακρουδάκι και μαρέν παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Λευκό μαρέν</color>
+            <size>9Μ</size> 
+            <image><![CDATA[https://i.imgur.com/MvkkAoZ.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>24.20</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+
+       <product cnt="42">
+            <category><![CDATA[Παιδικά Ρούχα / Σετ Φορμα]]></category>
+            <sku>W23202-12M</sku>
+            <name>Σετ Φορμα Baby Boy Λευκό Μαρέν Μέγεθος 12Μ</name>
+            <url>https://www.myshopflix.gr/product/W23202-12Μ</url> <ean>FUNSTRIKE-W2320212M</ean> <mpn>FS-SET-W23202</mpn>
+            <manufacturer>Fun Strike</manufacturer>
+            <description><![CDATA[Σετ φούτερ φόρμας.Λευκή μπλούζα με τύπωμα ακρουδάκι και μαρέν παντελόνι.Στη μπλούζα υπάρχουν κουμπιά στο λαιμό για να γίνεται η αλλαγή της μπλούζας πιο εύκολη.Ιδανικό για μωράκια απο 3μηνών - 12μηνών]]></description>
+            <weight>0.35</weight>
+            <color>Λευκό μαρέν</color>
+            <size>12Μ</size> 
+            <image><![CDATA[https://i.imgur.com/MvkkAoZ.jpeg]]></image>
+            <price>10.00</price>
+            <list_price>24.20</list_price>
+            <quantity>4</quantity> 
+            <shipping_lead_time>1</shipping_lead_time> 
+        </product>
+    </products>
+</MPITEMS>
